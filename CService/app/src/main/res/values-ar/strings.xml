@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Customer_Service</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">"أسم المستخدم"</string>
+    <string name="action_sign_in">"تسجيل الدخول"</string>
+    <string name="action_sign_in_short">"أنشاء حساب جديد"</string>
+    <string name="welcome">أهلا بك</string>
+    <string name="invalid_username">"هذا الأسم غير مناسب"</string>
+    <string name="invalid_password">"الرقم السرى يجب ان يكون اكبر من 5 حروف"</string>
+    <string name="login_failed">"فشل في تسجيل الدخول"</string>
+    <string name="Email">البريد الألكترونى</string>
+    <string name="save">حفظ</string>
+    <string name="add_btn">أضافه خدمه</string>
+    <string name="sport">رياضة</string>
+    <string name="Entertainment">أمور ترفيهية</string>
+    <string name="Jobs">عمل</string>
+    <string name="other_service">خدمات أخري</string>
+    <string name="health">خدمات صحيه</string>
+    <string-array name="Service">
+        <item>رياضة</item>
+        <item>أمور ترفيهية</item>
+        <item>عمل</item>
+        <item>خدمات صحيه</item>
+        <item>خدمات أخري</item>
+    </string-array>
+    <string-array name="service_type">
+        <item>مطلوب</item>
+        <item>متاح</item>
+    </string-array>
+    <string name="date">التاريخ</string>
+    <string name="service_name">أسم الخدمه</string>
+    <string name="description">الوصف</string>
+    <string name="share">نشر</string>
+    <string name="ava_position">الأماكن المتاحه</string>
+    <string name="service_type">الخدمه</string>
+    <string name="service_spe">نوع الخدمه</string>
+    <string name="sname_validator">هذه الخانه يجب ألا تكون فارغه</string>
+    <string name="Date_valid">هذا ليس تاريخ</string>
+    <string name="date_hint">يوم/شهر/سنه</string>
+    <string name="email_valid">البريد الألكتروني غير صحيح</string>
+    <string name="prompt_password">الرقم السرى</string>
+</resources>
